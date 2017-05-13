@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Write&amp;Read</string>
+    <string name="title_record">Record</string>
+    <string name="title_save_load">Save/Load</string>
+
+    <string name="audio_recorder">Audio Recorder</string>
+    <string name="buttom_start_record">Start</string>
+    <string name="buttom_play_record">Play</string>
+    <string name="buttom_stop_record">Stop</string>
+
+    <string name="button_save">Save</string>
+    <string name="button_view">View</string>
+    <string name="button_clear">Clear</string>
+
+    <string name="button_save_sd">Save to SD</string>
+    <string name="button_view_sd">View from SD</string>
+    <string name="button_clear_sd">Clear from SD</string>
+</resources>
